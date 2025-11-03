@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdleJulve
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m learning Python.
+- 🌱 I code ePubs
 - 📫 How to reach me edle.julve@gmail.com
 
 <!---
